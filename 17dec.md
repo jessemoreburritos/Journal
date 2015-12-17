@@ -22,4 +22,4 @@ This should be a paragraph on what you have done. Don’t worry about the gramma
  * [ticket number - ticket name](url)
 
 ## Media from today
-If you have taken pictures, tweeted, etc., add URLs here or upload photos, documents, etc…
+[Put some things on a map with some form of sourcery commonly known as .md] (https://www.google.com/maps/d/embed?mid=zgJ9-8GXnLfs.k7wyxqpV1eJs)
