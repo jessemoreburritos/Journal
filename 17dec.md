@@ -1,25 +1,16 @@
 # 2015.December.17 - Morabito, Jesse
 
 ## Today’s activities 
-This should be a paragraph on what you have done. Don’t worry about the grammar, but make sure that this paragraph makes sense. Try to hit on the following points.
+This morning we attended a stakeholder meeting at Hornsby council with reps from Heritage around Me. The meeting provided us with insights into Heritage on a more local level as well as a greater understanding of the OEH's strategy for the around me program. (This will probably need to be written up)
+Kenni also gave me a crash course in GitHubing, .csv and markdown files/coding/i have no idea what i'm talking about. THat was super helpful and got me pumped to do things.
+Now OEH xmas party. Woot
 
-* What am I learning?
-* What are the greatest risks?
-* If I had to do this part of the project again, what would I do different?
-* What can I do to improve my communications?
-* What do I enjoy most about this project? 
-* Is there an issue or idea I should let the fellowship leadership know? (If this is an issue you want to deal with privately, please note the need and send a private message.)
 
 
 ## Blockers 
- * Bullet point out the things that are impending your ability to get stuff done.
- * Feel free to `@someone` if you think they can help.
- * Don’t forget to ensure that you are documenting these issues in your github issue. 
+ * Yet to consult with end users. Again, tomorrow!
+ * Hornsby is quite far away
 
-## New Issues 
- * [ticket number - ticket name](url)
- * [ticket number - ticket name](url)
- * [ticket number - ticket name](url)
 
 ## Media from today
-[Put some things on a map with some form of sourcery commonly known as .md] (https://www.google.com/maps/d/embed?mid=zgJ9-8GXnLfs.k7wyxqpV1eJs)
+[Put some things on a map with some form of sourcery commonly known as .md and .csv] (https://www.google.com/maps/d/embed?mid=zgJ9-8GXnLfs.k7wyxqpV1eJs)
